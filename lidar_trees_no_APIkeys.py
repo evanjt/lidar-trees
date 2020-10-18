@@ -263,8 +263,7 @@ def run_lidar_multithread():
 
 ''' Planet functions
 
-    This code has been adapted from the Planet API resource notebooks at:
-    https://github.com/planetlabs/notebooks/blob/master/jupyter-notebooks/data-api-tutorials/planet_data_api_introduction.ipynb
+    This code has been adapted from the Planet API resource notebooks
     as well as their NDVI method at:
     https://developers.planet.com/tutorials/calculate-ndvi/
 '''
